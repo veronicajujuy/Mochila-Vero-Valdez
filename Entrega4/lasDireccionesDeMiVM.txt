@@ -1,6 +1,9 @@
 MAC de mi vm
-  HWaddr 08:00:27:70:6d:60  
+HWaddr 08:00:27:70:6d:60  
 IP de mi vm
 inet addr:10.0.2.15
 IP PRIVADA DE MI VM
 inet addr:10.0.2.15
+
+otro archivo mas
+
